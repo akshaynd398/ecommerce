@@ -1,0 +1,10 @@
+app
+   
+     -navbar
+     -header
+     -shopping-cart
+           -filter
+           -product-list
+                 -product-item
+           -cart
+     -footer
